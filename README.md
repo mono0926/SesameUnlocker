@@ -1,4 +1,4 @@
-- プライベートリポジトリ(https://github.com/mono0926/Sesame-Private)から最低限仕上げて移植予定
+- プライベートリポジトリ( https://github.com/mono0926/Sesame-Private )から最低限仕上げて移植予定
   - https://twitter.com/_mono/status/1455733207198945281
 
 # SesameUnlocker
